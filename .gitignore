@@ -158,3 +158,6 @@ data/
 # ignore db data
 db/*
 /deploy
+src/utilities/ffmpeg/bin/ffprobe.exe
+src/utilities/ffmpeg/bin/ffplay.exe
+src/utilities/ffmpeg/bin/ffmpeg.exe
