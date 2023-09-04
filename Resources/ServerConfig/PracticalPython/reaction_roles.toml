@@ -50,6 +50,22 @@ options = [
 
 ]
 
+[selectors.color]
+name = "Colors"
+single_choice = true
+description = "Select your username color!"
+options = [
+    { label = "Red", emoji = "", description = "", id = 1148145845770915870 },
+    { label = "Orange", emoji = "🇪", description = "", id = 1148145321302560769 },
+    { label = "Yellow", emoji = "", description = "", id = 1148145167736520764 },
+    { label = "Light Green", emoji = "", description = "", id = 1148144840735981569 },
+    { label = "Dark Green", emoji = "", description = "", id = 1148147946068643900 },
+    { label = "Light Blue", emoji = "", description = "", id = 1148144625836625961 },
+    { label = "Blue", emoji = "", description = "", id = 1148144828631224391 },
+    { label = "Pink", emoji = "", description = "", id = 1143109787316396082 },
+    { label = "Purple", emoji = "", description = "", id = 1148146380880216065 }
+]
+
 
 #####  DEVELOPMENT
 
