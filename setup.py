@@ -29,6 +29,7 @@ setuptools.setup(
         "PyNaCl==1.5.0",
         "ffmpeg-python==0.2.0",
         "yt-dlp==2023.7.6",
+        "youtube-search-python",
     ],
     classifiers=[
         # see https://pypi.org/classifiers/

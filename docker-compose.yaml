@@ -18,3 +18,5 @@ services:
     depends_on:
       - mongo
     restart: always
+    volumes:
+      - .:/code  # This line mounts your local directory to the /code directory inside the container
